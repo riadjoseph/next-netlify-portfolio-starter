@@ -7,22 +7,22 @@
       "slug": "seo"
     },
     {
-      "title": "Photo of cat",
-      "description": "This is a photo of a cat",
-      "image": "http://placekitten.com/200/210",
-      "slug": "photo"
+      "title": "Témoignages",
+      "description": "Plus qu'une centaine d'avis clients, tous à 100% satisfaits",
+      "image": "https://webforgood.fr/assets/images/textes-avis-clients.mp4",
+      "slug": "témoignages"
     },
     {
-      "title": "Mirage of cat",
-      "description": "This is a mirage of a cat",
-      "image": "http://placekitten.com/200/220",
-      "slug": "mirage"
+      "title": "Données Structurées Produits Shopify",
+      "description": "Réglages des erreurs et avertissements dans la GSC",
+      "image": "https://pme-web-seo.com/wp-content/uploads/2021/04/service-corrections-erreurs-GSC-donnees-structurees-produits.png",
+      "slug": "data"
     },
     {
-      "title": "Dream of cat",
-      "description": "This is a dream of a cat",
-      "image": "http://placekitten.com/150/160",
-      "slug": "dream"
+      "title": "Optimisation de Vitesse",
+      "description": "Améliorer la vitesse d'un site WordPress",
+      "image": "https://pme-web-seo.com/wp-content/uploads/2021/03/wordpress-speed-optimisation.png",
+      "slug": "vitesse"
     }
   ]
 }
