@@ -9,13 +9,13 @@ export default function Home({ items }) {
   return (
     <div className="container">
       <Head>
-        <title>My Portfolio Example</title>
+        <title>Consultant Réferencement naturel SEO Yvelines France</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Nav />
 
       <main>
-        <Header text="Welcome to my portfolio!" />
+        <Header text="Webmaster et consultant SEO" />
 
         <div className="cards">
           {items?.length &&
