@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "Painting of cat",
-      "description": "This is a painting of a cat",
-      "image": "http://placekitten.com/200/200",
-      "slug": "painting"
+      "title": "Coaching SEO personnalisé",
+      "description": "Coaching et accompagnement SEO avec la Google Search Console",
+      "image": "https://webforgood.fr/assets/images/formation-google-search-console.jpg",
+      "slug": "seo"
     },
     {
       "title": "Photo of cat",
